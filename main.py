@@ -1,18 +1,18 @@
 from rf01 import *
 
-json_file = load_destinos('pg_aed/demo.json')
+json_file = load_destinos('./demo.json')
 
 # Função principal
 def main():
     fila_consultas = []
 
     while True:
-        print('\nMenu:')
-        print(f'  {char.dot} 1. Pesquisar destinos turísticos')
-        print(f'  {char.dot} 9. Mostrar todos os destinos')
-        print(f'  {char.dot} 0. Sair')
+        print(f'\n\n\t\t{text.bold}{text.underline}MENU{text.reset}\n')
+        print(f' {char.dot} 1. Pesquisar destinos turísticos')
+        print(f' {char.dot} 9. Mostrar todos os destinos')
+        print(f' {char.dot} 0. Sair')
 
-        option = str(input('Escolha uma opção: '))
+        option = str(input(f'\n   {text.bold}{text.underline}Escolha uma opção{text.reset}: '))
 
         match option:
             case '0':
@@ -40,14 +40,17 @@ def main():
                     for resultado in resultados:
                         show_destino(resultado)
                         
-                    fila_consultas.append({
-                        'country': country if country else 'N/A',
-                        'city': city if city else 'N/A'
-                    })
                 else:
                     print('Nenhum destino encontrado para os critérios fornecidos.')
+                fila_consultas.append({
+                    'country': country if country else 'N/A',
+                    'city': city if city else 'N/A',
+                    'proximity': proximity if proximity else 'N/A',
+                    'results': resultados if resultados else 'N/A'
+                })
             case '9':
-                show_json(json_file)
+                for destino in json_file:
+                    show_destino(destino)
 
             case _:
                 print(f'{text.black}{background.red}Opção inválida{background.reset}{text.reset}. Tente novamente.')
