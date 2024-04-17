@@ -3,8 +3,8 @@
         "name": "Paris",
         "country": "França",
         "city": "Paris",
-        "coordinates": "48.8566° N, 2.3522° E",
         "near_airport": true,
+        "coordinates": "48.8566° N, 2.3522° E",
         "url": "https://www.parisinfo.com/",
         "next": null
     },
@@ -12,8 +12,8 @@
         "name": "Rio de Janeiro",
         "country": "Brasil",
         "city": "Rio de Janeiro",
-        "coordinates": "22.9068° S, 43.1729° W",
         "near_airport": true,
+        "coordinates": "22.9068° S, 43.1729° W",
         "url": "https://visit.rio/en/",
         "next": null
     },
@@ -21,8 +21,8 @@
         "name": "Nova Iorque",
         "country": "Estados Unidos",
         "city": "Nova Iorque",
-        "coordinates": "40.7128° N, 74.0060° W",
         "near_airport": true,
+        "coordinates": "40.7128° N, 74.0060° W",
         "url": "https://www.nycgo.com/",
         "next": null
     },
@@ -30,8 +30,8 @@
         "name": "Los Angeles",
         "country": "Estados Unidos",
         "city": "Los Angeles",
-        "coordinates": "34.0522° N, 118.2437° W",
         "near_airport": true,
+        "coordinates": "34.0522° N, 118.2437° W",
         "url": "https://www.discoverlosangeles.com/",
         "next": null
     },
@@ -39,8 +39,8 @@
         "name": "Chicago",
         "country": "Estados Unidos",
         "city": "Chicago",
-        "coordinates": "41.8781° N, 87.6298° W",
         "near_airport": true,
+        "coordinates": "41.8781° N, 87.6298° W",
         "url": "https://www.choosechicago.com/",
         "next": null
     },
@@ -48,8 +48,8 @@
         "name": "Houston",
         "country": "Estados Unidos",
         "city": "Houston",
-        "coordinates": "29.7604° N, 95.3698° W",
         "near_airport": true,
+        "coordinates": "29.7604° N, 95.3698° W",
         "url": "https://www.visithoustontexas.com/",
         "next": null
     },
@@ -57,8 +57,8 @@
         "name": "Phoenix",
         "country": "Estados Unidos",
         "city": "Phoenix",
-        "coordinates": "33.4484° N, 112.0740° W",
         "near_airport": true,
+        "coordinates": "33.4484° N, 112.0740° W",
         "url": "https://www.visitphoenix.com/",
         "next": null
     },
@@ -66,8 +66,8 @@
         "name": "Filadélfia",
         "country": "Estados Unidos",
         "city": "Filadélfia",
-        "coordinates": "39.9526° N, 75.1652° W",
         "near_airport": true,
+        "coordinates": "39.9526° N, 75.1652° W",
         "url": "https://www.visitphilly.com/",
         "next": null
     },
@@ -75,8 +75,8 @@
         "name": "San Antonio",
         "country": "Estados Unidos",
         "city": "San Antonio",
-        "coordinates": "29.4241° N, 98.4936° W",
         "near_airport": true,
+        "coordinates": "29.4241° N, 98.4936° W",
         "url": "https://www.visitsanantonio.com/",
         "next": null
     },
@@ -84,8 +84,8 @@
         "name": "San Diego",
         "country": "Estados Unidos",
         "city": "San Diego",
-        "coordinates": "32.7157° N, 117.1611° W",
         "near_airport": true,
+        "coordinates": "32.7157° N, 117.1611° W",
         "url": "https://www.sandiego.org/",
         "next": null
     },
@@ -93,8 +93,8 @@
         "name": "Dallas",
         "country": "Estados Unidos",
         "city": "Dallas",
-        "coordinates": "32.7767° N, 96.7970° W",
         "near_airport": true,
+        "coordinates": "32.7767° N, 96.7970° W",
         "url": "https://www.visitdallas.com/",
         "next": null
     },
@@ -102,8 +102,8 @@
         "name": "San José",
         "country": "Estados Unidos",
         "city": "San José",
-        "coordinates": "37.3382° N, 121.8863° W",
         "near_airport": true,
+        "coordinates": "37.3382° N, 121.8863° W",
         "url": "https://www.sanjose.org/",
         "next": null
     },
@@ -111,8 +111,8 @@
         "name": "Tóquio",
         "country": "Japão",
         "city": "Tóquio",
-        "coordinates": "35.6895° N, 139.6917° E",
         "near_airport": false,
+        "coordinates": "35.6895° N, 139.6917° E",
         "url": "https://www.gotokyo.org/en/",
         "next": null
     },
@@ -120,8 +120,8 @@
         "name": "Londres",
         "country": "Reino Unido",
         "city": "Londres",
-        "coordinates": "51.5074° N, 0.1278° W",
         "near_airport": false,
+        "coordinates": "51.5074° N, 0.1278° W",
         "url": "https://www.visitlondon.com/",
         "next": null
     }
