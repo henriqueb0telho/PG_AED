@@ -1,17 +1,7 @@
 [
     {
         "country": "N/A",
-        "city": "Paris",
-        "proximity_to_airport": ""
-    },
-    {
-        "country": "Estados Unidos",
-        "city": "N/A",
-        "proximity_to_airport": ""
-    },
-    {
-        "country": "N/A",
-        "city": "N/A",
-        "proximity_to_airport": "n"
+        "city": "Lagoa, Açores",
+        "proximity_to_airport": "s"
     }
 ]
