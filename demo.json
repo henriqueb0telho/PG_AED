@@ -5,8 +5,8 @@
         "city": "Lagoa, Açores",
         "near_airport": true,
         "coordinates": "51.5074° N, 0.1278° W",
-        "url": "https://www.cm-pontadelgada.pt/",
-        "searches": 1,
+        "url": "https://www.cuf.pt/",
+        "searches": 7,
         "next": null
     },
     {
@@ -16,7 +16,7 @@
         "near_airport": true,
         "coordinates": "41.8781° N, 87.6298° W",
         "url": "https://www.choosechicago.com/",
-        "searches": 100,
+        "searches": 101,
         "next": null
     },
     {
@@ -26,7 +26,17 @@
         "near_airport": true,
         "coordinates": "32.7767° N, 96.7970° W",
         "url": "https://www.visitdallas.com/",
-        "searches": 40,
+        "searches": 41,
+        "next": null
+    },
+    {
+        "name": "Escola Secundária Antero de Quental",
+        "country": "Portugal",
+        "city": "Ponta Delgada",
+        "near_airport": true,
+        "coordinates": "51.5074° N, 0.1278° W",
+        "url": "https://esaq.pt/",
+        "searches": 150,
         "next": null
     },
     {
@@ -36,7 +46,7 @@
         "near_airport": true,
         "coordinates": "39.9526° N, 75.1652° W",
         "url": "https://www.visitphilly.com/",
-        "searches": 70,
+        "searches": 71,
         "next": null
     },
     {
@@ -46,7 +56,7 @@
         "near_airport": true,
         "coordinates": "29.7604° N, 95.3698° W",
         "url": "https://www.visithoustontexas.com/",
-        "searches": 90,
+        "searches": 91,
         "next": null
     },
     {
@@ -56,7 +66,7 @@
         "near_airport": false,
         "coordinates": "51.5074° N, 0.1278° W",
         "url": "https://www.visitlondon.com/",
-        "searches": 10,
+        "searches": 12,
         "next": null
     },
     {
@@ -66,7 +76,7 @@
         "near_airport": true,
         "coordinates": "34.0522° N, 118.2437° W",
         "url": "https://www.discoverlosangeles.com/",
-        "searches": 110,
+        "searches": 111,
         "next": null
     },
     {
@@ -76,7 +86,7 @@
         "near_airport": true,
         "coordinates": "40.7128° N, 74.0060° W",
         "url": "https://www.nycgo.com/",
-        "searches": 120,
+        "searches": 121,
         "next": null
     },
     {
@@ -86,7 +96,7 @@
         "near_airport": true,
         "coordinates": "48.8566° N, 2.3522° E",
         "url": "https://www.parisinfo.com/",
-        "searches": 140,
+        "searches": 141,
         "next": null
     },
     {
@@ -96,7 +106,7 @@
         "near_airport": true,
         "coordinates": "33.4484° N, 112.0740° W",
         "url": "https://www.visitphoenix.com/",
-        "searches": 80,
+        "searches": 81,
         "next": null
     },
     {
@@ -106,7 +116,7 @@
         "near_airport": true,
         "coordinates": "22.9068° S, 43.1729° W",
         "url": "https://visit.rio/en/",
-        "searches": 13,
+        "searches": 14,
         "next": null
     },
     {
@@ -116,7 +126,7 @@
         "near_airport": true,
         "coordinates": "29.4241° N, 98.4936° W",
         "url": "https://www.visitsanantonio.com/",
-        "searches": 60,
+        "searches": 61,
         "next": null
     },
     {
@@ -126,7 +136,7 @@
         "near_airport": true,
         "coordinates": "32.7157° N, 117.1611° W",
         "url": "https://www.sandiego.org/",
-        "searches": 50,
+        "searches": 51,
         "next": null
     },
     {
@@ -136,7 +146,7 @@
         "near_airport": true,
         "coordinates": "37.3382° N, 121.8863° W",
         "url": "https://www.sanjose.org/",
-        "searches": 30,
+        "searches": 31,
         "next": null
     },
     {
@@ -146,7 +156,7 @@
         "near_airport": false,
         "coordinates": "35.6895° N, 139.6917° E",
         "url": "https://www.gotokyo.org/en/",
-        "searches": 20,
+        "searches": 22,
         "next": null
     },
     {
@@ -155,8 +165,8 @@
         "city": "Ponta Delgada",
         "near_airport": true,
         "coordinates": "51.5074° N, 0.1278° W",
-        "url": "https://www.cm-pontadelgada.pt/",
-        "searches": 144,
+        "url": "https://uac.pt/",
+        "searches": 0,
         "next": null
     }
 ]
